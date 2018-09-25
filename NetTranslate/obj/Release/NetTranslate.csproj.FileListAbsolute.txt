@@ -1,0 +1,12 @@
+G:\C#Project\translate.google\NetTranslate\bin\Release\gettk.js
+G:\C#Project\translate.google\NetTranslate\bin\Release\NetTranslate.dll
+G:\C#Project\translate.google\NetTranslate\bin\Release\NetTranslate.pdb
+G:\C#Project\translate.google\NetTranslate\bin\Release\Newtonsoft.Json.dll
+G:\C#Project\translate.google\NetTranslate\obj\Release\Interop.MSScriptControl.dll
+G:\C#Project\translate.google\NetTranslate\obj\Release\NetTranslate.csproj.ResolveComReference.cache
+G:\C#Project\translate.google\NetTranslate\obj\Release\NetTranslate.Properties.Resources.resources
+G:\C#Project\translate.google\NetTranslate\obj\Release\NetTranslate.csproj.GenerateResource.cache
+G:\C#Project\translate.google\NetTranslate\obj\Release\NetTranslate.csproj.CoreCompileInputs.cache
+G:\C#Project\translate.google\NetTranslate\obj\Release\NetTranslate.csproj.CopyComplete
+G:\C#Project\translate.google\NetTranslate\obj\Release\NetTranslate.dll
+G:\C#Project\translate.google\NetTranslate\obj\Release\NetTranslate.pdb

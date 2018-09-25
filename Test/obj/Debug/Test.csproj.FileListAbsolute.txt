@@ -1,0 +1,11 @@
+G:\C#Project\translate.google\Test\obj\Debug\Test.csprojAssemblyReference.cache
+G:\C#Project\translate.google\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+G:\C#Project\translate.google\Test\bin\Debug\Test.exe.config
+G:\C#Project\translate.google\Test\bin\Debug\Test.exe
+G:\C#Project\translate.google\Test\bin\Debug\Test.pdb
+G:\C#Project\translate.google\Test\bin\Debug\NetTranslate.dll
+G:\C#Project\translate.google\Test\bin\Debug\Newtonsoft.Json.dll
+G:\C#Project\translate.google\Test\bin\Debug\NetTranslate.pdb
+G:\C#Project\translate.google\Test\obj\Debug\Test.csproj.CopyComplete
+G:\C#Project\translate.google\Test\obj\Debug\Test.exe
+G:\C#Project\translate.google\Test\obj\Debug\Test.pdb

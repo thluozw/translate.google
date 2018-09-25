@@ -1,0 +1,12 @@
+G:\C#Project\translate.google\Test\bin\Release\gettk.js
+G:\C#Project\translate.google\Test\bin\Release\Test.exe.config
+G:\C#Project\translate.google\Test\bin\Release\Test.exe
+G:\C#Project\translate.google\Test\bin\Release\Test.pdb
+G:\C#Project\translate.google\Test\bin\Release\NetTranslate.dll
+G:\C#Project\translate.google\Test\bin\Release\Newtonsoft.Json.dll
+G:\C#Project\translate.google\Test\bin\Release\NetTranslate.pdb
+G:\C#Project\translate.google\Test\obj\Release\Test.csprojAssemblyReference.cache
+G:\C#Project\translate.google\Test\obj\Release\Test.csproj.CoreCompileInputs.cache
+G:\C#Project\translate.google\Test\obj\Release\Test.csproj.CopyComplete
+G:\C#Project\translate.google\Test\obj\Release\Test.exe
+G:\C#Project\translate.google\Test\obj\Release\Test.pdb

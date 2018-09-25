@@ -1,0 +1,10 @@
+G:\C#Project\translate.google\NetTranslate\bin\x64\Debug\NetTranslate.dll
+G:\C#Project\translate.google\NetTranslate\bin\x64\Debug\NetTranslate.pdb
+G:\C#Project\translate.google\NetTranslate\bin\x64\Debug\Newtonsoft.Json.dll
+G:\C#Project\translate.google\NetTranslate\obj\x64\Debug\Interop.MSScriptControl.dll
+G:\C#Project\translate.google\NetTranslate\obj\x64\Debug\NetTranslate.csproj.ResolveComReference.cache
+G:\C#Project\translate.google\NetTranslate\obj\x64\Debug\NetTranslate.csproj.CoreCompileInputs.cache
+G:\C#Project\translate.google\NetTranslate\obj\x64\Debug\NetTranslate.csproj.CopyComplete
+G:\C#Project\translate.google\NetTranslate\obj\x64\Debug\NetTranslate.dll
+G:\C#Project\translate.google\NetTranslate\obj\x64\Debug\NetTranslate.pdb
+G:\C#Project\translate.google\NetTranslate\obj\x64\Debug\NetTranslate.csprojAssemblyReference.cache
